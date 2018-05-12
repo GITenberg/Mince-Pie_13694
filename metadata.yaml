@@ -1,0 +1,46 @@
+_repo: Mince-Pie_13694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 20th century'
+tableOfContents: 'On filling an ink-well -- Old thoughts for Christmas -- Christmas
+  cards -- On unanswering letters -- A letter to Father Time -- What men live by --
+  The unnatural naturalist -- Sitting in the barber''s chair -- Brown eyes and equinoxes
+  -- 163 innocent old men -- A tragic smell in Marathon -- Bullied by the birds --
+  A message for Boonville -- Making Marathon safe for the urchin -- The smell of smells
+  -- A Japanese bachelor -- Two days we celebrate -- The urchin at the zoo -- Fellow
+  craftsmen -- The key ring -- "Owd Bob" -- The apple that no one ate -- As to rumors
+  -- Our mothers -- Greeting to American anglers -- Mrs. Izaak Walton writes a letter
+  to her mother -- Truth -- The tragedy of Washington Square -- If Mr. Wilson were
+  the weather man -- Syntax for cynics -- The truth at last -- Fixed ideas -- Trials
+  of a president travelling abroad -- Diary of a publisher''s office boy -- The dog''s
+  commandments -- The value of criticism -- A marriage service for commuters -- The
+  sunny side of Grub Street -- Burial service for a newspaper joke -- Advice to those
+  visiting a baby -- Abou Ben Woodrow -- My magnificent system -- Letters to Cynthia:
+  In praise of boobs. Simplification -- To an unknown damsel -- Thoughts on setting
+  an alarm clock -- Songs in a shower bath -- On dedicating a new teapot -- The unforgivable
+  syntax -- Visiting poets -- A good home in the suburbs -- Walt Whitman miniatures
+  -- On doors.'
+title: Mince Pie
+url: http://www.gutenberg.org/ebooks/13694
